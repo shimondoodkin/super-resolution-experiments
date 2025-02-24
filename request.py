@@ -1,3 +1,6 @@
+# see app.py for details
+# this file consumes api created with app.py
+
 import requests
 import base64
 
